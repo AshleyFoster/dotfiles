@@ -1,11 +1,11 @@
 [user]
-	name = Blake Williams
-	email = blake@bendystra.ws
+	name = Ashley Foster
+	email = sappyrocks91@gmail.com
 [github]
-	user = BlakeWilliams
+	user = AshleyFoster
 [format]
 	pretty = oneline
 [color]
 	ui = true
 [core]
-	excludesfile = /Users/Blake/.global_ignore
+	excludesfile = /Users/Ashley/.global_ignore
